@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<question type="shortanswer">
+	<name>
+		<text>Demo question à choix multiples</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la bonne réponse ?</text>
+	</questiontext>
+	<answer fraction="100">
+	     <text>The correct answer</text>
+	     <feedback><text>Correct!</text></feedback>
+	 </answer>
+	 <answer fraction="50">
+	     <text>An alternative answer</text>
+	     <feedback><text>Correct!</text></feedback>
+	 </answer>
+</question>
