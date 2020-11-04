@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <question type="multichoice">
 	<name>
-	<text>Demo question à choix multiples bark</text>
-	<text>Demo question à choix multiples 2Guib</text>
+		<text>Demo question à choix multiples 2Guib</text>
+
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
